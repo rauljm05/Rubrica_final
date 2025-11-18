@@ -45,5 +45,5 @@ Entrenar un modelo de clasificación capaz de predecir la especie de una flor se
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/rauljm05/Rubrica_final/commit/db266a6e291cf1110e6d16be0443a07eab90b60e
 cd repositorio
